@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kirill
-#### I am Junior back-end developer
+#### I am novice back-end developer
 I have been learning Java for a while and now I am looking for a job to gain practical skills on real projects
 
 Skills: JAVA | SPRING FRAMEWORK | HIBERNATE | SQL
